@@ -1,0 +1,564 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0428,
+          -12.0464
+        ]
+      },
+      "properties": {
+        "district": "Lima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1116547476923,
+          -11.69655375
+        ]
+      },
+      "properties": {
+        "district": "Ancon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.890144,
+          -12.020546
+        ]
+      },
+      "properties": {
+        "district": "Ate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02026805536,
+          -12.143959
+        ]
+      },
+      "properties": {
+        "district": "Barranco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0501186386556,
+          -12.05970045
+        ]
+      },
+      "properties": {
+        "district": "Bre\u00f1a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0330337,
+          -11.9007232
+        ]
+      },
+      "properties": {
+        "district": "Carabayllo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7761693563544,
+          -11.9924767
+        ]
+      },
+      "properties": {
+        "district": "Chaclacayo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.008962340921,
+          -12.19234965
+        ]
+      },
+      "properties": {
+        "district": "Chorrillos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7770709832113,
+          -12.0731669
+        ]
+      },
+      "properties": {
+        "district": "Cieneguilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0406744471402,
+          -11.93286125
+        ]
+      },
+      "properties": {
+        "district": "Comas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9987104,
+          -12.0499251
+        ]
+      },
+      "properties": {
+        "district": "El Agustino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0503721,
+          -11.9919461
+        ]
+      },
+      "properties": {
+        "district": "Independencia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.046403209622,
+          -12.0781861
+        ]
+      },
+      "properties": {
+        "district": "Jesus Maria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9223377966789,
+          -12.0901768
+        ]
+      },
+      "properties": {
+        "district": "La Molina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0181965660884,
+          -12.0739937
+        ]
+      },
+      "properties": {
+        "district": "La Victoria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0366469868362,
+          -12.08656755
+        ]
+      },
+      "properties": {
+        "district": "Lince"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0730713199829,
+          -11.9659853
+        ]
+      },
+      "properties": {
+        "district": "Los Olivos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6966523,
+          -11.9394494
+        ]
+      },
+      "properties": {
+        "district": "Lurigancho-Chosica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7838627203846,
+          -12.23804975
+        ]
+      },
+      "properties": {
+        "district": "Lurin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0682320722961,
+          -12.0957149
+        ]
+      },
+      "properties": {
+        "district": "Magdalena del Mar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0678580759959,
+          -12.07663875
+        ]
+      },
+      "properties": {
+        "district": "Pueblo Libre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0259064168439,
+          -12.12149805
+        ]
+      },
+      "properties": {
+        "district": "Miraflores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9067941784113,
+          -12.2498244
+        ]
+      },
+      "properties": {
+        "district": "Pachacamac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7977746,
+          -12.4816307
+        ]
+      },
+      "properties": {
+        "district": "Pucusana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0744820650776,
+          -11.8768271
+        ]
+      },
+      "properties": {
+        "district": "Puente Piedra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8256982,
+          -12.3326784
+        ]
+      },
+      "properties": {
+        "district": "Punta Hermosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7951906,
+          -12.3655578
+        ]
+      },
+      "properties": {
+        "district": "Punta Negra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0340939,
+          -12.0266773
+        ]
+      },
+      "properties": {
+        "district": "R\u00edmac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7805897,
+          -12.389822
+        ]
+      },
+      "properties": {
+        "district": "San Bartolo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9956898677115,
+          -12.09645155
+        ]
+      },
+      "properties": {
+        "district": "San Borja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0353666284423,
+          -12.0979021
+        ]
+      },
+      "properties": {
+        "district": "San Isidro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9779107113582,
+          -11.9487508
+        ]
+      },
+      "properties": {
+        "district": "San Juan de Lurigancho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9721286606387,
+          -12.1558521
+        ]
+      },
+      "properties": {
+        "district": "San Juan de Miraflores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9958909387275,
+          -12.0723555
+        ]
+      },
+      "properties": {
+        "district": "San Luis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0976551058842,
+          -11.98675905
+        ]
+      },
+      "properties": {
+        "district": "San Mart\u00edn de Porres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0947866427869,
+          -12.07911365
+        ]
+      },
+      "properties": {
+        "district": "San Miguel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9645757,
+          -12.0494148
+        ]
+      },
+      "properties": {
+        "district": "Santa Anita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7737056,
+          -12.401924
+        ]
+      },
+      "properties": {
+        "district": "Santa Mar\u00eda del Mar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1600036168045,
+          -11.8049522
+        ]
+      },
+      "properties": {
+        "district": "Santa Rosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9821604921429,
+          -12.1251049
+        ]
+      },
+      "properties": {
+        "district": "Santiago de Surco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0104749214966,
+          -12.11419775
+        ]
+      },
+      "properties": {
+        "district": "Surquillo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9491496406357,
+          -12.2168944
+        ]
+      },
+      "properties": {
+        "district": "Villa el Salvador"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9189676713279,
+          -12.17664375
+        ]
+      },
+      "properties": {
+        "district": "Villa Mar\u00eda del Triunfo"
+      }
+    }
+  ]
+}
