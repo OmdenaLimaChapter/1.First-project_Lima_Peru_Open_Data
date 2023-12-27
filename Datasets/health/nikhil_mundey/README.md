@@ -37,6 +37,21 @@ LUGAR_RESIDENCIA (Categorical): Represents the place of residence, providing a c
 
 DISTRITO (Categorical): Denotes the district of residence for the patients.
 
+
+
+### Conclusion:
+
+1. Age Distribution: Notable peak around age 65. Rise observed around age 40, followed by a decline after age 77.
+
+2. Gender Insights: Predominance of female patients (64.7%).
+
+3. Oncology Departments: ABDOMEN, GINECOLOGIA, and MAMAS Y TEJIDOS BLANDOS are major focal points. High patient density in ABDOMEN department within the age range of 65-75.
+
+4. Geographical Distribution: SAN JUAN DE LURIGANCHO leads in higher concentrations of oncology cases.
+
+5. Implications: Informs decision-making for healthcare resource allocation and research prioritization. Lays the groundwork for tailored interventions in oncological care.
+
+
 ## Acknowledgment
 We extend our sincere appreciation to the Data Governance Framework of the Peruvian State for generously providing the open-source dataset, fostering transparency and facilitating valuable insights for research and innovation.
 
