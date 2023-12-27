@@ -57,6 +57,13 @@ UBIGEO: Geographic location code for fuel expenditure.
 
 FECHA_CORTE: Date the dataset was generated.
 
+### How to Use This Report
+* "fuel_expenditure.pbix" can be accessed once Microsoft Power BI Desktop is installed.
+* Snapshot of report is uploaded for quick view of analysis.
+
+### Requirements
+* Microsoft Power BI Desktop.
+
 ## Acknowledgment
 We extend our sincere appreciation to the Data Governance Framework of the Peruvian State for generously providing the open-source dataset, fostering transparency and facilitating valuable insights for research and innovation.
 
