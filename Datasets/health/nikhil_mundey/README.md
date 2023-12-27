@@ -37,9 +37,16 @@ LUGAR_RESIDENCIA (Categorical): Represents the place of residence, providing a c
 
 DISTRITO (Categorical): Denotes the district of residence for the patients.
 
+### Visualization:
+
+![Age Distribution by Gender](https://github.com/OmdenaLimaChapter/1.First-project_Lima_Peru_Open_Data/blob/7d0b951604362f60311558e00bd9567bb2fce145/Datasets/health/nikhil_mundey/age_and_gender.jpg)
+
+![Age Distribution in Different Oncology Departments](https://github.com/OmdenaLimaChapter/1.First-project_Lima_Peru_Open_Data/blob/7d0b951604362f60311558e00bd9567bb2fce145/Datasets/health/nikhil_mundey/department.jpg)
+
+![Top 10 Districts with Most Frequency](https://github.com/OmdenaLimaChapter/1.First-project_Lima_Peru_Open_Data/blob/7d0b951604362f60311558e00bd9567bb2fce145/Datasets/health/nikhil_mundey/district.jpg)
 
 
-### Conclusion:
+## Conclusion:
 
 1. Age Distribution: Notable peak around age 65. Rise observed around age 40, followed by a decline after age 77.
 
